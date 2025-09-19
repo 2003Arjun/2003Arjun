@@ -18,7 +18,16 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- 🎓 I’m a Computer Science Engineering graduate.  
+- 🐍 Skilled in **Python, Django, Flask, MongoDB, Node.js, and JavaScript**.  
+- 🤖 Passionate about **AI/ML, NLP, Computer Vision, and Automation**.  
+- 🛠️ Built projects like:  
+  - AI Chat App with Django & NLTK  
+  - AI Voice Assistant (Text-to-Speech & Speech Recognition)  
+  - Voice-enabled Real-Time Object Tracking with YOLOv8 & OpenCV  
+  - Django-based Job Portal with role-based access  
+- ⚡ In my free time, I love exploring open-source, trying new tech, and UI/UX designing.  
+</p>
 
 ###
 
